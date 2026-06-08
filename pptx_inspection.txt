@@ -1,0 +1,842 @@
+
+====================================================================
+INSPECTING FILE: GCグループ_プレゼンテーションフォーマット.pptx
+====================================================================
+Total slides: 2
+
+--- Slide Layouts available in this template: ---
+Layout 0: Name: タイトル スライド
+Layout 1: Name: タイトルとコンテンツ
+Layout 2: Name: セクション見出し
+Layout 3: Name: 2 つのコンテンツ
+Layout 4: Name: 比較
+Layout 5: Name: タイトルのみ
+Layout 6: Name: 白紙
+Layout 7: Name: タイトル付きのコンテンツ
+Layout 8: Name: タイトル付きの図
+Layout 9: Name: タイトルと縦書きテキスト
+Layout 10: Name: 縦書きタイトルと
+縦書きテキスト
+
+--- Slide Content and Shape Details: ---
+
+Slide 1:
+  Layout name: タイトルとコンテンツ
+  Shapes found: 3
+  - Shape 1: Name: タイトル 1, Type: PLACEHOLDER (14)
+      Paragraph 1: "表紙"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 2: Name: コンテンツ プレースホルダー 2, Type: PLACEHOLDER (14)
+  - Shape 3: Name: 図 3, Type: PICTURE (13)
+
+Slide 2:
+  Layout name: タイトルとコンテンツ
+  Shapes found: 3
+  - Shape 1: Name: 図 2, Type: PICTURE (13)
+  - Shape 2: Name: テキスト ボックス 1, Type: TEXT_BOX (17)
+      Paragraph 1: "2026/〇/〇 HD幹部会"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 3: Name: テキスト ボックス 3, Type: TEXT_BOX (17)
+      Paragraph 1: "1.各社3月度業績/資金繰りについて"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "2."
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 3: "3."
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 4: "4."
+        Font: None, Size: None, Color: Unknown/None
+
+====================================================================
+INSPECTING FILE: TCCグループ資料　(提出版).pptx
+====================================================================
+Total slides: 10
+
+--- Slide Layouts available in this template: ---
+Layout 0: Name: タイトル スライド
+Layout 1: Name: タイトルとコンテンツ
+Layout 2: Name: セクション見出し
+Layout 3: Name: 2 つのコンテンツ
+Layout 4: Name: 比較
+Layout 5: Name: タイトルのみ
+Layout 6: Name: 白紙
+Layout 7: Name: タイトル付きのコンテンツ
+Layout 8: Name: タイトル付きの図
+Layout 9: Name: タイトルと縦書きテキスト
+Layout 10: Name: 縦書きタイトルと
+縦書きテキスト
+
+--- Slide Content and Shape Details: ---
+
+Slide 1:
+  Layout name: 白紙
+  Shapes found: 35
+  - Shape 1: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "TCCグループの歩み"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 2: Name: 矢印: 下 4, Type: AUTO_SHAPE (1)
+      Fill Color: Unknown/None
+  - Shape 3: Name: 楕円 5, Type: AUTO_SHAPE (1)
+      Fill Color: Unknown/None
+  - Shape 4: Name: 楕円 6, Type: AUTO_SHAPE (1)
+      Fill Color: Unknown/None
+  - Shape 5: Name: 楕円 7, Type: AUTO_SHAPE (1)
+      Fill Color: Unknown/None
+  - Shape 6: Name: 楕円 8, Type: AUTO_SHAPE (1)
+      Fill Color: Unknown/None
+  - Shape 7: Name: 楕円 9, Type: AUTO_SHAPE (1)
+      Fill Color: Unknown/None
+  - Shape 8: Name: 楕円 10, Type: AUTO_SHAPE (1)
+      Fill Color: Unknown/None
+  - Shape 9: Name: 楕円 11, Type: AUTO_SHAPE (1)
+      Fill Color: Unknown/None
+  - Shape 10: Name: 二等辺三角形 12, Type: AUTO_SHAPE (1)
+  - Shape 11: Name: 二等辺三角形 13, Type: AUTO_SHAPE (1)
+  - Shape 12: Name: 二等辺三角形 14, Type: AUTO_SHAPE (1)
+  - Shape 13: Name: 二等辺三角形 15, Type: AUTO_SHAPE (1)
+  - Shape 14: Name: 二等辺三角形 16, Type: AUTO_SHAPE (1)
+  - Shape 15: Name: 二等辺三角形 17, Type: AUTO_SHAPE (1)
+  - Shape 16: Name: 二等辺三角形 18, Type: AUTO_SHAPE (1)
+  - Shape 17: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "1960　創業　(蒸留酒製造所への製品供給から事業を興す)"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 18: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "2001　Berli Jucker Plc　買収"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 19: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "1991 Thai Beverage 設立"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 20: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "2006 Plantheon 設立"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 21: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "2008 Terragro Fertilizer登記"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 22: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "2003　TCC Land　設立"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 23: Name: グループ化 71, Type: GROUP (6)
+  - Shape 24: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "1983 酒造工場を落札 蒸留酒メーカーとして地位確立"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 25: Name: 楕円 68, Type: AUTO_SHAPE (1)
+      Fill Color: Unknown/None
+  - Shape 26: Name: 二等辺三角形 69, Type: AUTO_SHAPE (1)
+  - Shape 27: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "(*)創業者は米経済誌Forbesによる2025年タイの長者番付で"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "第4位、純資産は117億㌦。次々と企業買収を進める事から"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 3: "「買収の帝王」の異名をもつ。TCCグループはタイ5大財閥の一つ。"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 28: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "Thai Charoen Corporation"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 29: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "2018 Thai Group Holdings設立"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 30: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "(*)農業・工業分野への本格進出"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 31: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "(*)消費材・小売・流通分野への本格進出"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 32: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "(*)食品・飲料分野への本格進出"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 33: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "(*)不動産分野への本格進出"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 34: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "(*)保険・金融分野への本格進出"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 35: Name: 図 82, Type: PICTURE (13)
+
+Slide 2:
+  Layout name: 白紙
+  Shapes found: 20
+  - Shape 1: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "TCCグループの事業"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 2: Name: グループ化 49, Type: GROUP (6)
+  - Shape 3: Name: 図 51, Type: PICTURE (13)
+  - Shape 4: Name: 図 53, Type: PICTURE (13)
+  - Shape 5: Name: 図 55, Type: PICTURE (13)
+  - Shape 6: Name: 図 57, Type: PICTURE (13)
+  - Shape 7: Name: 図 59, Type: PICTURE (13)
+  - Shape 8: Name: 正方形/長方形 60, Type: AUTO_SHAPE (1)
+  - Shape 9: Name: 正方形/長方形 61, Type: AUTO_SHAPE (1)
+  - Shape 10: Name: 正方形/長方形 62, Type: AUTO_SHAPE (1)
+      Paragraph 1: "食品・飲料グループ"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 11: Name: 正方形/長方形 63, Type: AUTO_SHAPE (1)
+      Paragraph 1: "不動産グループ"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 12: Name: 正方形/長方形 64, Type: AUTO_SHAPE (1)
+      Paragraph 1: "消費材・流通・小売"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "グループ"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 13: Name: 正方形/長方形 65, Type: AUTO_SHAPE (1)
+      Paragraph 1: "金融・保険グループ"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 14: Name: 正方形/長方形 66, Type: AUTO_SHAPE (1)
+      Paragraph 1: "農業・工業グループ"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 15: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "(*)同社の納税額はタイ政府の"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "全収入の4%に相当。"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 16: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "(*)タイ全土の1％の土地を保有する"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "民間最大の土地保有者"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 17: Name: 図 70, Type: PICTURE (13)
+  - Shape 18: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "TCCグループは主に各事業領域で川上から川下まで垂直統合の事業拡大を得意とする。新たに事業をゼロからスタートするのではなく事業買収によってシナジーを拡大させている。"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 19: Name: 図 5, Type: PICTURE (13)
+  - Shape 20: Name: 図 6, Type: PICTURE (13)
+
+Slide 3:
+  Layout name: 白紙
+  Shapes found: 17
+  - Shape 1: Name: 正方形/長方形 46, Type: AUTO_SHAPE (1)
+  - Shape 2: Name: 正方形/長方形 45, Type: AUTO_SHAPE (1)
+  - Shape 3: Name: 正方形/長方形 44, Type: AUTO_SHAPE (1)
+  - Shape 4: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "TCCグループの事業展開"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 5: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "近年、TCCグループは周辺国(ASEAN)への拡張に意欲的。"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "中でもグループにとって最も有望とされているベトナムでは、同国最大のビール製造企業「Saigon Beer」や乳製品最大手「Vinamilk]への"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 3: "出資など幅広く展開。ベトナムでもTCCグループが得意とする垂直統合型の事業創出が行われている。"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 4: "また、ミャンマーでは酒類事業(Grand Royal Group)や流通事業(BJC Trading)を行っている。"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 6: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "■M＆A実績(一部抜粋)"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 7: Name: 正方形/長方形 17, Type: AUTO_SHAPE (1)
+      Fill Color: Unknown/None
+  - Shape 8: Name: グループ化 43, Type: GROUP (6)
+  - Shape 9: Name: グループ化 40, Type: GROUP (6)
+  - Shape 10: Name: グループ化 41, Type: GROUP (6)
+  - Shape 11: Name: グループ化 42, Type: GROUP (6)
+  - Shape 12: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "■隣国への主な展開(左記以外)"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 13: Name: 図 50, Type: PICTURE (13)
+  - Shape 14: Name: 正方形/長方形 51, Type: AUTO_SHAPE (1)
+  - Shape 15: Name: 正方形/長方形 53, Type: AUTO_SHAPE (1)
+      Paragraph 1: "Malaysia"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 16: Name: 図 57, Type: PICTURE (13)
+  - Shape 17: Name: 図 59, Type: PICTURE (13)
+
+Slide 4:
+  Layout name: 白紙
+  Shapes found: 22
+  - Shape 1: Name: グループ化 9, Type: GROUP (6)
+  - Shape 2: Name: グループ化 7, Type: GROUP (6)
+  - Shape 3: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "Berli Jucker Plc社"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 4: Name: 図 11, Type: PICTURE (13)
+  - Shape 5: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "■消費財事業製品別売上高"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 6: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "■BJCの消費財事業"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 7: Name: 正方形/長方形 17, Type: AUTO_SHAPE (1)
+  - Shape 8: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "・食品類、非食品類、及びベトナムを中心とした国際事業に支えられている。売上高内訳は非食品"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "類が約89億バーツ(2024年)で消費財事業全体の41.7%を占める。"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 3: "・タイ国内でも既にティッシュメーカーであるBerli Jucker Cellox社を保有(98.12%)しているが、"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 4: "べトナムでは大手ティッシュペーパーメーカーのVina Paperも保有しタイ国外での消費財事業の"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 5: "拡大を促進している。"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 6: "・自社ブランドの他に多岐にわたる消費財の受託ブランドの製造・販売を行っている。"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 9: Name: 図 21, Type: PICTURE (13)
+  - Shape 10: Name: グループ化 53, Type: GROUP (6)
+  - Shape 11: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "■ストラクチャー"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 12: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "■BS/PL"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 13: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "1882年にスイス人により設立され、コメ・木材の輸出や欧州製品の輸入を開始。"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "タイ証券取引所に上場した最初の7社のうちの1社。2001年にTCCグループが株式の過半数を取得。"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 14: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "消費財・流通・小売　中核会社"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 15: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "(*)紙関連事業のみ抜粋"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "いづれもティッシュ関連商材を製造"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 16: Name: 正方形/長方形 61, Type: AUTO_SHAPE (1)
+      Paragraph 1: "Berli Jucker Cellox(カンボジア)"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 17: Name: 直線矢印コネクタ 65, Type: LINE (9)
+  - Shape 18: Name: 直線コネクタ 68, Type: LINE (9)
+  - Shape 19: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 2: "100%"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 20: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 2: "100%"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 21: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 2: "98.12%"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 22: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 2: "100%"
+        Font: None, Size: None, Color: Unknown/None
+
+Slide 5:
+  Layout name: 白紙
+  Shapes found: 70
+  - Shape 1: Name: 直線コネクタ 124, Type: LINE (9)
+  - Shape 2: Name: 直線コネクタ 103, Type: LINE (9)
+  - Shape 3: Name: 直線コネクタ 105, Type: LINE (9)
+  - Shape 4: Name: 直線コネクタ 107, Type: LINE (9)
+  - Shape 5: Name: 直線コネクタ 101, Type: LINE (9)
+  - Shape 6: Name: 直線コネクタ 99, Type: LINE (9)
+  - Shape 7: Name: 直線コネクタ 53, Type: LINE (9)
+  - Shape 8: Name: テキスト ボックス 1, Type: TEXT_BOX (17)
+      Paragraph 1: "Terraagro工場"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 3: "■場所：アユタヤ県ナコンルアン郡"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 4: "(当社NKL工場から約7㎞）"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 9: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "Terragro Fertilizer社"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 10: Name: テキスト ボックス 16, Type: TEXT_BOX (17)
+      Paragraph 1: "■製造能力"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "コンパウンド(SG法): 30-35万MT/年*"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 3: "BB: 　　　　　　　　　　　 　 5万MT/年"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 4: "*過去2ライン体制だったがライン不具合"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 5: "にて現在は1ライン体制"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 11: Name: 図 18, Type: PICTURE (13)
+  - Shape 12: Name: 図 19, Type: PICTURE (13)
+  - Shape 13: Name: 直線矢印コネクタ 20, Type: LINE (9)
+  - Shape 14: Name: 正方形/長方形 24, Type: AUTO_SHAPE (1)
+      Paragraph 1: "Thai Charoen Corporation Group"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 15: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 3: "100%"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 16: Name: 図 32, Type: PICTURE (13)
+  - Shape 17: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "パイナップル加工品"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "野菜加工品、"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 3: "フルーツミックス等製造"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 18: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "化成肥料製造"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 19: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "Plantheon社"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 20: Name: Rectangle: Rounded Corners 65, Type: AUTO_SHAPE (1)
+      Paragraph 1: "Agricultural processing industry Business group"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 21: Name: Rectangle: Rounded Corners 114, Type: AUTO_SHAPE (1)
+      Paragraph 1: "Continuing Business Group"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 22: Name: Rectangle: Rounded Corners 115, Type: AUTO_SHAPE (1)
+      Paragraph 1: "Agricultural Marketing Business Group"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 23: Name: Rectangle: Rounded Corners 116, Type: AUTO_SHAPE (1)
+      Paragraph 1: "Foreign agricultural Business group"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 24: Name: Rectangle: Rounded Corners 117, Type: AUTO_SHAPE (1)
+      Paragraph 1: "Rubber Agriculture Business Group"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 25: Name: Rectangle: Rounded Corners 118, Type: AUTO_SHAPE (1)
+      Paragraph 1: "Sugar Industry Business Group"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 26: Name: グループ化 120, Type: GROUP (6)
+  - Shape 27: Name: 直線コネクタ 121, Type: LINE (9)
+  - Shape 28: Name: 直線コネクタ 122, Type: LINE (9)
+  - Shape 29: Name: 直線コネクタ 123, Type: LINE (9)
+  - Shape 30: Name: 直線コネクタ 125, Type: LINE (9)
+  - Shape 31: Name: 直線コネクタ 126, Type: LINE (9)
+  - Shape 32: Name: 直線コネクタ 127, Type: LINE (9)
+  - Shape 33: Name: 直線コネクタ 128, Type: LINE (9)
+  - Shape 34: Name: 直線コネクタ 129, Type: LINE (9)
+  - Shape 35: Name: 直線コネクタ 130, Type: LINE (9)
+  - Shape 36: Name: 直線コネクタ 131, Type: LINE (9)
+  - Shape 37: Name: 直線コネクタ 132, Type: LINE (9)
+  - Shape 38: Name: 直線コネクタ 133, Type: LINE (9)
+  - Shape 39: Name: Rectangle: Rounded Corners 139, Type: AUTO_SHAPE (1)
+      Paragraph 1: "Lan Chang Development"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 40: Name: Rectangle: Rounded Corners 140, Type: AUTO_SHAPE (1)
+      Paragraph 1: "(Laos) Paksong Highland"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 41: Name: Rectangle: Rounded Corners 141, Type: AUTO_SHAPE (1)
+      Paragraph 1: "(Cambodia) MRT-TCC"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 42: Name: Rectangle: Rounded Corners 144, Type: AUTO_SHAPE (1)
+      Paragraph 1: "Cristalla Co.,Ltd."
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 43: Name: Rectangle: Rounded Corners 145, Type: AUTO_SHAPE (1)
+      Paragraph 1: "Cristalla　 Engineering"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 44: Name: Rectangle: Rounded Corners 148, Type: AUTO_SHAPE (1)
+      Paragraph 1: "Siam Food Product Publict"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 45: Name: Rectangle: Rounded Corners 149, Type: AUTO_SHAPE (1)
+      Paragraph 1: "Lastica Co. Ltd"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 46: Name: Rectangle: Rounded Corners 150, Type: AUTO_SHAPE (1)
+      Paragraph 1: "Thai Alcohol"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "Public Company"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 47: Name: Rectangle: Rounded Corners 151, Type: AUTO_SHAPE (1)
+      Paragraph 1: "Thai Agro　 Production"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 48: Name: Rectangle: Rounded Corners 152, Type: AUTO_SHAPE (1)
+      Paragraph 1: "Terragro Fertilizer ."
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 49: Name: Rectangle: Rounded Corners 154, Type: AUTO_SHAPE (1)
+      Paragraph 1: "Terragro Bio-tech"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 50: Name: Rectangle: Rounded Corners 159, Type: AUTO_SHAPE (1)
+      Paragraph 1: "Terragro Technology"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 51: Name: Rectangle: Rounded Corners 138, Type: AUTO_SHAPE (1)
+      Paragraph 1: "Terragro Co.,Ltd."
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 52: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "有機肥料製造"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 53: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "エタノール製造"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 54: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "天然ゴム加工"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 55: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "パーム油製造"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 56: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "コーヒー農園運営"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 57: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "農地開発・技術指導"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 58: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "営農支援"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 59: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "稲作・畑作運営"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 60: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "バイオマス発電所運営"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 61: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "サトウキビ農園運営"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "製糖工場"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 62: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "スイートコーン加工品製造"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 63: Name: 図 153, Type: PICTURE (13)
+  - Shape 64: Name: 図 155, Type: PICTURE (13)
+  - Shape 65: Name: 図 163, Type: PICTURE (13)
+  - Shape 66: Name: 図 165, Type: PICTURE (13)
+  - Shape 67: Name: テキスト ボックス 166, Type: TEXT_BOX (17)
+      Paragraph 1: "農業・工業分野の中核会社。"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "TCCグループが保有する土地を最大限に有効"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 3: "利用することを目指している。"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 68: Name: 直線コネクタ 167, Type: LINE (9)
+  - Shape 69: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "Plantheon社のHPにて紹介されている事業内容"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 70: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "農業・工業　中核会社"
+        Font: None, Size: None, Color: Unknown/None
+
+Slide 6:
+  Layout name: 白紙
+  Shapes found: 63
+  - Shape 1: Name: 正方形/長方形 103, Type: AUTO_SHAPE (1)
+      Fill Color: Unknown/None
+  - Shape 2: Name: 図 50, Type: PICTURE (13)
+  - Shape 3: Name: 図 49, Type: PICTURE (13)
+  - Shape 4: Name: 直線コネクタ 19, Type: LINE (9)
+  - Shape 5: Name: 図 16, Type: PICTURE (13)
+  - Shape 6: Name: 図 15, Type: PICTURE (13)
+  - Shape 7: Name: 図 17, Type: PICTURE (13)
+  - Shape 8: Name: 図 11, Type: PICTURE (13)
+  - Shape 9: Name: 図 1, Type: PICTURE (13)
+  - Shape 10: Name: 図 2, Type: PICTURE (13)
+  - Shape 11: Name: 図 3, Type: PICTURE (13)
+  - Shape 12: Name: 図 4, Type: PICTURE (13)
+  - Shape 13: Name: 図 5, Type: PICTURE (13)
+  - Shape 14: Name: 図 6, Type: PICTURE (13)
+  - Shape 15: Name: 図 7, Type: PICTURE (13)
+  - Shape 16: Name: 図 8, Type: PICTURE (13)
+  - Shape 17: Name: 図 9, Type: PICTURE (13)
+  - Shape 18: Name: 図 10, Type: PICTURE (13)
+  - Shape 19: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "1944年生まれ"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "1988年にプミポン国王から一家にタイの姓"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 3: "「Sirivadhanabhakdi」を授かる。"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 4: "近年、各中核会社の要職から徐々に退いており、"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 5: "彼の資産も第2世代への移行を行っている。"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 20: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "1975年生まれ"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "ボストン大金融経営学 修士卒"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 3: "ThaiBev, CEO"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 21: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "1977年生まれ"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "ボストン大製造工学理学士"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 3: "マサチューセッツ工科大　生産工学・経済学卒"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 4: "Frasers Property, CEO"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 22: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "Wallapa Traisorat 氏"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "次女"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 23: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "Thapana Sirivadhanabhakdi 氏"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "長男"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 24: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "Panote Sirivadhanabhakdi 氏"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "次男"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 25: Name: テキスト ボックス 29, Type: TEXT_BOX (17)
+      Paragraph 1: "Atinant Bijananda 氏"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "長女"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 3: "ボストン大経営修士卒"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 4: "Thai Group Holdings, Director"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 26: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "1943年生まれ"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "(2023年没)"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 27: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "Khunying Wanna 氏"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 28: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "Charoen Sirivadhanabhakdi 氏"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 29: Name: テキスト ボックス 34, Type: TEXT_BOX (17)
+      Paragraph 1: "Thapanee Techajareonvikul 氏"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "三女"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 3: "マサチューセッツ工科大経済学卒"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 4: "ハーバード大経営修士卒"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 5: "BJC, CEO"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 30: Name: テキスト ボックス 36, Type: TEXT_BOX (17)
+      Paragraph 1: "Chotiphat Bijananda 氏"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 31: Name: テキスト ボックス 38, Type: TEXT_BOX (17)
+      Paragraph 1: "Soammaphat Traisorat 氏"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 32: Name: テキスト ボックス 40, Type: TEXT_BOX (17)
+      Paragraph 1: "Aswin Techajareonvikul 氏"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "Big C Supercenter, CEO"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 33: Name: テキスト ボックス 41, Type: TEXT_BOX (17)
+      Paragraph 1: "創業者"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 34: Name: 図 44, Type: PICTURE (13)
+  - Shape 35: Name: テキスト ボックス 48, Type: TEXT_BOX (17)
+      Paragraph 1: "Papatchya Sirivadhanabhakdi 氏"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 36: Name: テキスト ボックス 52, Type: TEXT_BOX (17)
+      Paragraph 1: "Trinuch Chakrabandh"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "Sirivadhanabhakdi 氏"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 37: Name: 図 54, Type: PICTURE (13)
+  - Shape 38: Name: 図 55, Type: PICTURE (13)
+  - Shape 39: Name: 図 57, Type: PICTURE (13)
+  - Shape 40: Name: 図 59, Type: PICTURE (13)
+  - Shape 41: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "ケンブリッジ大土地経済 修士卒"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "Asset World Corporation, CEO"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 42: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "TCC Capital Land, CEO"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 43: Name: 図 65, Type: PICTURE (13)
+  - Shape 44: Name: 図 74, Type: PICTURE (13)
+  - Shape 45: Name: 図 77, Type: PICTURE (13)
+  - Shape 46: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "Thai Group Holdings, CEO"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 47: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "TCC グループ"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "家系譜"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 48: Name: 図 81, Type: PICTURE (13)
+  - Shape 49: Name: 楕円 83, Type: AUTO_SHAPE (1)
+      Fill Color: Unknown/None
+  - Shape 50: Name: 楕円 84, Type: AUTO_SHAPE (1)
+      Fill Color: Unknown/None
+  - Shape 51: Name: 直線コネクタ 86, Type: LINE (9)
+  - Shape 52: Name: 直線コネクタ 87, Type: LINE (9)
+  - Shape 53: Name: 直線コネクタ 90, Type: LINE (9)
+  - Shape 54: Name: 直線コネクタ 95, Type: LINE (9)
+  - Shape 55: Name: テキスト ボックス 75, Type: TEXT_BOX (17)
+      Paragraph 1: "農業・工業分野の中核会社はPlantheon"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "であるが、家族内の誰が責任者であるのか"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 3: "は公にされていない(未定の状況が続いている、とも言われている)。"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 4: "DBD(*)によると、未だCharoen氏が会長職を務めており長男Thapana氏と次男Panote氏が同社の取締役を務めている"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 5: "模様。　　　(*)Department of Business Development"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 56: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "金融・保険"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 57: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "ホテル・ショッピングセンター"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 58: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "食品・飲料"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 59: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "消費財・流通・小売"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 60: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "住宅用不動産・不動産開発"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 61: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "Thian Prasitsart Kindergarten,"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "Director"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 62: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "Royal Family member"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 63: Name: 図 110, Type: PICTURE (13)
+
+Slide 7:
+  Layout name: 白紙
+  Shapes found: 9
+  - Shape 1: Name: グループ化 8, Type: GROUP (6)
+  - Shape 2: Name: 図 10, Type: PICTURE (13)
+  - Shape 3: Name: 図 12, Type: PICTURE (13)
+  - Shape 4: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "TCCグループの主要会社(参考)"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 5: Name: タイトル 1, Type: TEXT_BOX (17)
+      Fill Color: Unknown/None
+  - Shape 6: Name: 正方形/長方形 15, Type: AUTO_SHAPE (1)
+  - Shape 7: Name: 正方形/長方形 16, Type: AUTO_SHAPE (1)
+  - Shape 8: Name: 正方形/長方形 17, Type: AUTO_SHAPE (1)
+  - Shape 9: Name: 正方形/長方形 18, Type: AUTO_SHAPE (1)
+
+Slide 8:
+  Layout name: 白紙
+  Shapes found: 8
+  - Shape 1: Name: 図 2, Type: PICTURE (13)
+  - Shape 2: Name: 図 3, Type: PICTURE (13)
+  - Shape 3: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "BJCの子会社・関連会社(参考)"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 4: Name: 図 6, Type: PICTURE (13)
+  - Shape 5: Name: 正方形/長方形 7, Type: AUTO_SHAPE (1)
+  - Shape 6: Name: 正方形/長方形 9, Type: AUTO_SHAPE (1)
+  - Shape 7: Name: 正方形/長方形 10, Type: AUTO_SHAPE (1)
+  - Shape 8: Name: 正方形/長方形 11, Type: AUTO_SHAPE (1)
+
+Slide 9:
+  Layout name: 白紙
+  Shapes found: 14
+  - Shape 1: Name: 図 2, Type: PICTURE (13)
+  - Shape 2: Name: テキスト ボックス 3, Type: TEXT_BOX (17)
+      Paragraph 1: "■Pak Song Highland Co., Ltd"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 3: Name: テキスト ボックス 4, Type: TEXT_BOX (17)
+      Paragraph 1: "2008年、ラオス国内の高原(約3,100ha)を取得。"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "コーヒー農園開発を行い2015年から生産開始。"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 3: "Plantheon社の傘下。"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 4: Name: タイトル 1, Type: TEXT_BOX (17)
+      Paragraph 1: "アグリ関連事業抜粋(参考)"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 5: Name: テキスト ボックス 8, Type: TEXT_BOX (17)
+      Paragraph 1: "■Mong Reththy Investment"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "Cambodia Oil Palm Company"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 6: Name: テキスト ボックス 10, Type: TEXT_BOX (17)
+      Paragraph 1: "カンボジアのフンセン首相の側近であるMong Reththy氏(中華系クメール人)が保有するMong Reththy Group社との合弁事業。"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "カンボジア最大のパーム農園を保有しパーム油を加工、"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 3: "出資した港湾を通じ輸出まで手掛ける。"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 4: "将来的には30,000ha規模の農園保有を目指している。"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 5: "Plantheon社の傘下。"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 7: Name: 図 12, Type: PICTURE (13)
+  - Shape 8: Name: 図 14, Type: PICTURE (13)
+  - Shape 9: Name: 図 16, Type: PICTURE (13)
+  - Shape 10: Name: 図 18, Type: PICTURE (13)
+  - Shape 11: Name: 図 20, Type: PICTURE (13)
+  - Shape 12: Name: 図 22, Type: PICTURE (13)
+  - Shape 13: Name: テキスト ボックス 23, Type: TEXT_BOX (17)
+      Paragraph 1: "双日とアグリ事業分野での協業(畜産・農業・デジタル)の可能性はアリか。"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 14: Name: テキスト ボックス 24, Type: TEXT_BOX (17)
+      Paragraph 1: "(*) 2023年時点でTCC Groupはタイ国内63万ライ(王室財産管理局が所有する土地の約21倍)の土地を保有。"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+
+Slide 10:
+  Layout name: 白紙
+  Shapes found: 22
+  - Shape 1: Name: テキスト ボックス 1, Type: TEXT_BOX (17)
+      Paragraph 1: "ベトナム事業での協業案(仮説)"
+        Font: None, Size: None, Color: Unknown/None
+  - Shape 2: Name: 図 5, Type: PICTURE (13)
+  - Shape 3: Name: 図 6, Type: PICTURE (13)
+  - Shape 4: Name: 図 7, Type: PICTURE (13)
+  - Shape 5: Name: 図 9, Type: PICTURE (13)
+  - Shape 6: Name: 図 11, Type: PICTURE (13)
+  - Shape 7: Name: 図 13, Type: PICTURE (13)
+  - Shape 8: Name: 表 24, Type: TABLE (19)
+  - Shape 9: Name: 図 28, Type: PICTURE (13)
+  - Shape 10: Name: 表 29, Type: TABLE (19)
+  - Shape 11: Name: 図 31, Type: PICTURE (13)
+  - Shape 12: Name: 表 32, Type: TABLE (19)
+  - Shape 13: Name: テキスト ボックス 3, Type: TEXT_BOX (17)
+      Paragraph 1: "梱包資材事業（サイゴンペーパー）"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "・TCCグループでは小売事業(BJC傘下)でMM Mega・Big C等小売・卸売事業を展開。飲料事業(Thai Bev傘下）ではサイゴンビア等国内トップシェアのブランドを保有"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 3: "・TCCグループは梱包資材としてビールの瓶・缶は自グループ内製造しているが、小売・飲料共に物流に必要な梱包資材（段ボール等）事業は実施していない模様。"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 4: "・サイゴンペーパーを絡めた段ボール事業での協業の可能性があるか。"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 14: Name: テキスト ボックス 33, Type: TEXT_BOX (17)
+      Paragraph 1: "Vinamilk（提携深化・関係構築）"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 2: "・TCCグループは飲料事業(Thai Bev傘下）の投資会社F&N Dairy Investments Pte Ltdを介しVinamilk株式16.5%を保有。(2005年以降段階的に取得)"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 3: "・現Vinamilk取締役に以下2名TCCグループ関係者を配置"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 4: "・Vinamilk事業での"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 5: "連携を深化させて"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 6: "いくことで、TCC"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 7: "グループとの関係"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 8: "構築や強化も可能"
+        Font: None, Size: None, Color: Unknown/None
+      Paragraph 9: "となるか。"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 15: Name: 図 35, Type: PICTURE (13)
+  - Shape 16: Name: 図 37, Type: PICTURE (13)
+  - Shape 17: Name: テキスト ボックス 38, Type: TEXT_BOX (17)
+      Paragraph 1: "Saigon Beer関係者"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 18: Name: テキスト ボックス 39, Type: TEXT_BOX (17)
+      Paragraph 1: "Big C関係者"
+        Font: None, Size: None, Color: Unknown/None
+      Fill Color: Unknown/None
+  - Shape 19: Name: 正方形/長方形 40, Type: AUTO_SHAPE (1)
+  - Shape 20: Name: 矢印: 下 41, Type: AUTO_SHAPE (1)
+  - Shape 21: Name: 矢印: 下 42, Type: AUTO_SHAPE (1)
+  - Shape 22: Name: 矢印: 下 43, Type: AUTO_SHAPE (1)

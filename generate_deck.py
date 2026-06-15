@@ -1275,7 +1275,267 @@ def create_presentation():
     p_b2.space_before = Pt(1)
 
     # -----------------------------------------------------------------------
-    # SLIDE 12: References & Sources
+    # SLIDE 12: Partnership Opportunities with Aitech (A.I. Technology)
+    # -----------------------------------------------------------------------
+    slide = add_clean_slide()
+    add_header_and_logo(slide, "Strategic Partnership: Aitech (A.I. Technology) (戦略的提携)",
+                        "Opportunities in green manufacturing and Japanese industrial sourcing (グリーン製造・調達での協業)")
+    
+    # Left Card - Aitech Profile
+    card_1 = slide.shapes.add_shape(MSO_SHAPE.RECTANGLE, Inches(0.75), col_y2, col_w2, col_h2)
+    set_shape_color(card_1, COLOR_CARD_BG, COLOR_BORDER)
+    
+    tb_1 = slide.shapes.add_textbox(Inches(1.05), col_y2 + Inches(0.3), col_w2 - Inches(0.6), col_h2 - Inches(0.6))
+    tf_1 = tb_1.text_frame
+    tf_1.word_wrap = True
+    tf_1.margin_left = tf_1.margin_right = tf_1.margin_top = tf_1.margin_bottom = 0
+    
+    p1_title = tf_1.paragraphs[0]
+    p1_title.text = "Aitech Company Profile"
+    p1_title.font.name = FONT_HEADING
+    p1_title.font.size = Pt(18)
+    p1_title.font.bold = True
+    p1_title.font.color.rgb = COLOR_TEXT_PRIMARY
+    
+    p1_jp = tf_1.add_paragraph()
+    p1_jp.text = "Aitech 企業概要・特徴"
+    p1_jp.font.name = FONT_HEADING
+    p1_jp.font.size = Pt(12)
+    p1_jp.font.bold = True
+    p1_jp.font.color.rgb = COLOR_GOLD_DARK
+    p1_jp.space_before = Pt(2)
+    p1_jp.space_after = Pt(12)
+    
+    points_1 = [
+        ("Automation Pioneer", "Leading Thai automation designer and builder for over 30 years.", 
+         "30年以上の実績を持つタイの代表的な自動化・ロボットシステムインテグレーター（SI）。"),
+        ("SCG Group Capital", "SCG Group (Cementhai Holding) acquired a 51% stake in 2021 to drive Smart Factory 4.0 expansion.", 
+         "2021年にSCGグループ（セメントハイ・ホールディングス）が株式の51%を取得し、スマートファクトリー4.0事業を強化。"),
+        ("ESG & Net Zero", "Led by President Kulchoke Phiphatana-chaichan, with a strong commitment to Green Manufacturing, ESG, and Net Zero emissions.", 
+         "クン・クンチョーク社長は、グリーン製造、ESG、および産業部門のネットゼロ排出（炭素削減）を極めて重視。")
+    ]
+    
+    for title, desc_en, desc_jp in points_1:
+        p_t = tf_1.add_paragraph()
+        p_t.text = f"• {title}: "
+        p_t.font.name = FONT_HEADING
+        p_t.font.size = Pt(10.5)
+        p_t.font.bold = True
+        p_t.font.color.rgb = COLOR_TEXT_PRIMARY
+        p_t.space_before = Pt(5)
+        
+        run = p_t.add_run()
+        run.text = desc_en
+        run.font.name = FONT_BODY
+        run.font.size = Pt(9.5)
+        run.font.bold = False
+        run.font.color.rgb = COLOR_TEXT_MUTED
+        
+        p_jp = tf_1.add_paragraph()
+        p_jp.text = desc_jp
+        p_jp.font.name = FONT_BODY
+        p_jp.font.size = Pt(8.5)
+        p_jp.font.color.rgb = COLOR_TEXT_MUTED
+        p_jp.space_before = Pt(1)
+        p_jp.space_after = Pt(4)
+
+    # Right Stacked Cards
+    card_r1_y = col_y2
+    card_r1_h = Inches(2.25)
+    card_r2_y = card_r1_y + card_r1_h + Inches(0.3)
+    card_r2_h = Inches(2.25)
+    
+    # Card R1: Green Manufacturing Partnership
+    card_r1 = slide.shapes.add_shape(MSO_SHAPE.RECTANGLE, Inches(6.983), card_r1_y, col_w2, card_r1_h)
+    set_shape_color(card_r1, COLOR_CARD_BG, COLOR_BORDER)
+    
+    tb_r1 = slide.shapes.add_textbox(Inches(7.283), card_r1_y + Inches(0.2), col_w2 - Inches(0.5), card_r1_h - Inches(0.4))
+    tf_r1 = tb_r1.text_frame
+    tf_r1.word_wrap = True
+    tf_r1.margin_left = tf_r1.margin_right = tf_r1.margin_top = tf_r1.margin_bottom = 0
+    
+    p_r1_title = tf_r1.paragraphs[0]
+    p_r1_title.text = "Pillar 1: Green Manufacturing Partnership"
+    p_r1_title.font.name = FONT_HEADING
+    p_r1_title.font.size = Pt(14)
+    p_r1_title.font.bold = True
+    p_r1_title.font.color.rgb = COLOR_DEEP_BLUE
+    
+    p_r1_jp_title = tf_r1.add_paragraph()
+    p_r1_jp_title.text = "協業の柱1：グリーン製造共同提案"
+    p_r1_jp_title.font.name = FONT_HEADING
+    p_r1_jp_title.font.size = Pt(10)
+    p_r1_jp_title.font.bold = True
+    p_r1_jp_title.font.color.rgb = COLOR_GOLD_DARK
+    p_r1_jp_title.space_before = Pt(1)
+    p_r1_jp_title.space_after = Pt(6)
+    
+    p_r1_en = tf_r1.add_paragraph()
+    p_r1_en.text = "Integrate GC's resource-saving and energy-saving materials into Aitech's turnkey production lines for F&B and automotive sectors to enhance eco-friendly sales points."
+    p_r1_en.font.name = FONT_BODY
+    p_r1_en.font.size = Pt(9.5)
+    p_r1_en.font.color.rgb = COLOR_TEXT_PRIMARY
+    p_r1_en.line_spacing = 1.15
+    
+    p_r1_jp = tf_r1.add_paragraph()
+    p_r1_jp.text = "Aitechが提供する自動車および食品・飲料（F&B）分野のターンキー生産ラインに、GCの「省エネルギー・省資源資材」を組み込み、環境配慮型ソリューションとしての強みを訴求。"
+    p_r1_jp.font.name = FONT_BODY
+    p_r1_jp.font.size = Pt(8.5)
+    p_r1_jp.font.color.rgb = COLOR_TEXT_MUTED
+    p_r1_jp.space_before = Pt(4)
+    p_r1_jp.line_spacing = 1.1
+
+    # Card R2: Japanese Sourcing & Trading Partner
+    card_r2 = slide.shapes.add_shape(MSO_SHAPE.RECTANGLE, Inches(6.983), card_r2_y, col_w2, card_r2_h)
+    set_shape_color(card_r2, COLOR_CARD_BG, COLOR_BORDER)
+    
+    tb_r2 = slide.shapes.add_textbox(Inches(7.283), card_r2_y + Inches(0.2), col_w2 - Inches(0.5), card_r2_h - Inches(0.4))
+    tf_r2 = tb_r2.text_frame
+    tf_r2.word_wrap = True
+    tf_r2.margin_left = tf_r2.margin_right = tf_r2.margin_top = tf_r2.margin_bottom = 0
+    
+    p_r2_title = tf_r2.paragraphs[0]
+    p_r2_title.text = "Pillar 2: Japanese Sourcing & Trading Partner"
+    p_r2_title.font.name = FONT_HEADING
+    p_r2_title.font.size = Pt(14)
+    p_r2_title.font.bold = True
+    p_r2_title.font.color.rgb = COLOR_DEEP_BLUE
+    
+    p_r2_jp_title = tf_r2.add_paragraph()
+    p_r2_jp_title.text = "協業の柱2：日本からの部材調達・商社提携"
+    p_r2_jp_title.font.name = FONT_HEADING
+    p_r2_jp_title.font.size = Pt(10)
+    p_r2_jp_title.font.bold = True
+    p_r2_jp_title.font.color.rgb = COLOR_GOLD_DARK
+    p_r2_jp_title.space_before = Pt(1)
+    p_r2_jp_title.space_after = Pt(6)
+    
+    p_r2_en = tf_r2.add_paragraph()
+    p_r2_en.text = "Leverage GC's business network in Japan to source machinery parts, components, and new technologies (e.g., for brands Aitech distributes like YAMADA, KANTO SEIKI) at competitive costs."
+    p_r2_en.font.name = FONT_BODY
+    p_r2_en.font.size = Pt(9.5)
+    p_r2_en.font.color.rgb = COLOR_TEXT_PRIMARY
+    p_r2_en.line_spacing = 1.15
+    
+    p_r2_jp = tf_r2.add_paragraph()
+    p_r2_jp.text = "Aitechの商社部門が代理店を務める日本ブランド（大智電通、ヤマダ、広高、関東精機など）の部品や、新しい自動化技術の調達において、GCの日本ネットワークを活用したコスト競争力のある迅速な供給体制を提案。"
+    p_r2_jp.font.name = FONT_BODY
+    p_r2_jp.font.size = Pt(8.5)
+    p_r2_jp.font.color.rgb = COLOR_TEXT_MUTED
+    p_r2_jp.space_before = Pt(4)
+    p_r2_jp.line_spacing = 1.1
+
+    # -----------------------------------------------------------------------
+    # SLIDE 13: Other Industrial Automation & Robot SI Partners
+    # -----------------------------------------------------------------------
+    slide = add_clean_slide()
+    add_header_and_logo(slide, "Other Automation & Robot SI Partners in Thailand (その他SIパートナー)",
+                        "Strategic collaboration models with specialized Japanese and local SIs (専門分野別協業モデル)")
+    
+    card_width = Inches(3.6)
+    card_height = Inches(4.8)
+    card_y = Inches(1.9)
+    gap = Inches(0.5)
+    start_x = Inches(0.75)
+    
+    si_partners = [
+        {
+            "icon": "1",
+            "title": "KUROITSU (Thailand)",
+            "sub": "Japanese Sourcing Alliance",
+            "sub_jp": "日系専用機メーカー調達提携",
+            "desc_en": "Japanese automation and special machine manufacturer with 13+ years in Thailand. Focuses 90% on automotive clients. GC can supply Japanese-standard parts and high-precision materials.",
+            "desc_jp": "タイで13年の実績を持つ日系SI・専用機メーカー。顧客の90%が自動車業界。高い精度（High Precision）が求められる機械組立に向け、日本基準を満たすGCの高品質部材や部品供給の連携を提案。"
+        },
+        {
+            "icon": "2",
+            "title": "AEP & DDD Auto",
+            "sub": "F&B Logistics Solutions",
+            "sub_jp": "食品・包装・物流トータル提案",
+            "desc_en": "Asia Engineering Pac (AEP) (40+ years in F&B packaging) and DDD Auto (AGV/AMR, ASRS). Partner to offer total solutions combining GC's energy-saving materials with their conveyors/robotics.",
+            "desc_jp": "40年の実績を持つ食品・包装機械大手AEPと、無人搬送車（AGV/AMR）や自動倉庫（ASRS）に強みを持つDDD Auto。GCの省エネ資材と両社のコンベア・搬送システムを組み合わせ、F&B業界向けトータルソリューションを共同提案。"
+        },
+        {
+            "icon": "3",
+            "title": "Eureka & Mygrowtech",
+            "sub": "Smart Warehousing & Energy Saving",
+            "sub_jp": "スマート倉庫の省エネルギー支援",
+            "desc_en": "Specialists in Robot Palletizer, Smart Logistics, and Vision inspection. Integrate GC's energy-saving solutions into automated warehouses and smart conveyors to reduce long-term costs for public enterprises.",
+            "desc_jp": "ロボットパレタイザー、スマート物流、画像検査システムに強み。大企業や上場企業の工場・倉庫向け自動化ラインにGCの省エネソリューションを導入し、顧客の長期的な光熱費・操業コスト削減を共同で支援。"
+        }
+    ]
+    
+    for i, si in enumerate(si_partners):
+        x = start_x + i * (card_width + gap)
+        
+        # Draw card container
+        card = slide.shapes.add_shape(MSO_SHAPE.ROUNDED_RECTANGLE, x, card_y, card_width, card_height)
+        set_shape_color(card, COLOR_CARD_BG, COLOR_BORDER)
+        
+        # Draw top color tag
+        color_tag = slide.shapes.add_shape(MSO_SHAPE.RECTANGLE, x, card_y, card_width, Inches(0.3))
+        set_shape_color(color_tag, COLOR_DEEP_BLUE if i == 0 else (COLOR_GOLD if i == 1 else COLOR_TEXT_MUTED))
+        
+        tb = slide.shapes.add_textbox(x + Inches(0.25), card_y + Inches(0.4), card_width - Inches(0.5), card_height - Inches(0.5))
+        tf = tb.text_frame
+        tf.word_wrap = True
+        tf.margin_left = tf.margin_right = tf.margin_top = tf.margin_bottom = 0
+        
+        # Header / Letter Box
+        p_ic = tf.paragraphs[0]
+        p_ic.text = f"PARTNER {si['icon']}"
+        p_ic.font.name = FONT_HEADING
+        p_ic.font.size = Pt(11)
+        p_ic.font.bold = True
+        p_ic.font.color.rgb = COLOR_GOLD_DARK
+        p_ic.space_after = Pt(4)
+        
+        # English Title
+        p_title = tf.add_paragraph()
+        p_title.text = si["title"]
+        p_title.font.name = FONT_HEADING
+        p_title.font.size = Pt(15)
+        p_title.font.bold = True
+        p_title.font.color.rgb = COLOR_TEXT_PRIMARY
+        
+        # Subtitle EN
+        p_sub = tf.add_paragraph()
+        p_sub.text = si["sub"]
+        p_sub.font.name = FONT_HEADING
+        p_sub.font.size = Pt(9.5)
+        p_sub.font.bold = True
+        p_sub.font.color.rgb = COLOR_DEEP_BLUE
+        p_sub.space_before = Pt(2)
+        
+        # Subtitle JP
+        p_sub_jp = tf.add_paragraph()
+        p_sub_jp.text = si["sub_jp"]
+        p_sub_jp.font.name = FONT_HEADING
+        p_sub_jp.font.size = Pt(8.5)
+        p_sub_jp.font.bold = True
+        p_sub_jp.font.color.rgb = COLOR_GOLD_DARK
+        p_sub_jp.space_before = Pt(1)
+        p_sub_jp.space_after = Pt(10)
+        
+        # English Description
+        p_desc = tf.add_paragraph()
+        p_desc.text = si["desc_en"]
+        p_desc.font.name = FONT_BODY
+        p_desc.font.size = Pt(9.0)
+        p_desc.font.color.rgb = COLOR_TEXT_PRIMARY
+        p_desc.line_spacing = 1.15
+        
+        # Japanese Description
+        p_desc_jp = tf.add_paragraph()
+        p_desc_jp.text = si["desc_jp"]
+        p_desc_jp.font.name = FONT_BODY
+        p_desc_jp.font.size = Pt(8.0)
+        p_desc_jp.font.color.rgb = COLOR_TEXT_MUTED
+        p_desc_jp.space_before = Pt(6)
+        p_desc_jp.line_spacing = 1.1
+
+    # -----------------------------------------------------------------------
+    # SLIDE 14: References & Sources
     # -----------------------------------------------------------------------
     slide = add_clean_slide()
     add_header_and_logo(slide, "References & Data Sources (参考文献・資料出典)",

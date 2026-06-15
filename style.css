@@ -1363,3 +1363,180 @@ img {
 .references-list a:hover {
     color: var(--gold-hover);
 }
+
+/* ==========================================================================
+   PARTNERSHIPS SECTION STYLES
+   ========================================================================== */
+.partnerships-section {
+    background-color: var(--light-surface);
+    border-top: 1px solid var(--border-color);
+}
+
+.aitech-card {
+    display: flex;
+    background-color: var(--light-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 16px;
+    padding: 32px;
+    margin-bottom: 48px;
+    gap: 32px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.02);
+}
+
+.aitech-profile {
+    flex: 1.1;
+    border-right: 1px solid var(--border-color);
+    padding-right: 32px;
+}
+
+.aitech-profile-list {
+    margin-top: 16px;
+    padding-left: 0;
+    list-style-type: none;
+}
+
+.aitech-profile-list li {
+    font-size: 13px;
+    color: var(--muted-text-dark);
+    margin-bottom: 16px;
+    padding-left: 20px;
+    position: relative;
+    line-height: 1.5;
+}
+
+.aitech-profile-list li::before {
+    content: "•";
+    color: var(--gold);
+    font-size: 20px;
+    position: absolute;
+    left: 0;
+    top: -2px;
+}
+
+.aitech-pillars {
+    flex: 0.9;
+}
+
+.aitech-pillar-item {
+    margin-bottom: 20px;
+}
+
+.aitech-pillar-title {
+    font-size: 14px;
+    font-weight: 600;
+    color: #003399;
+    margin-bottom: 6px;
+}
+
+.aitech-pillar-desc {
+    font-size: 12.5px;
+    color: var(--muted-text-dark);
+    line-height: 1.5;
+}
+
+.partner-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+}
+
+.partner-card {
+    background-color: var(--light-surface);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 24px;
+    position: relative;
+    overflow: hidden;
+    transition: var(--transition);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.01);
+}
+
+.partner-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+    border-color: var(--gold);
+}
+
+.partner-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background-color: var(--muted-text-dark);
+}
+
+.partner-card.partner-blue::before {
+    background-color: #003399;
+}
+
+.partner-card.partner-gold::before {
+    background-color: var(--gold);
+}
+
+.partner-card.partner-gray::before {
+    background-color: var(--muted-text-dark);
+}
+
+.partner-tag {
+    font-size: 10px;
+    font-weight: 700;
+    color: var(--gold-hover);
+    letter-spacing: 1px;
+    margin-bottom: 8px;
+    display: block;
+}
+
+.partner-title {
+    font-size: 18px;
+    color: var(--primary-text-dark);
+    margin-bottom: 8px;
+    font-weight: 600;
+}
+
+.partner-subtitle {
+    font-size: 12.5px;
+    color: #003399;
+    font-weight: 600;
+    margin-bottom: 12px;
+}
+
+.partner-desc {
+    font-size: 12px;
+    color: var(--muted-text-dark);
+    line-height: 1.5;
+}
+
+@media (max-width: 992px) {
+    .aitech-card {
+        flex-direction: column;
+        padding: 24px;
+    }
+    .aitech-profile {
+        border-right: none;
+        padding-right: 0;
+        border-bottom: 1px solid var(--border-color);
+        padding-bottom: 24px;
+    }
+    .partner-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+.partner-card .partner-img-wrapper img {
+    transition: var(--transition);
+}
+
+.partner-card:hover .partner-img-wrapper img {
+    transform: scale(1.05);
+}
+
+.aitech-image-container img {
+    transition: var(--transition);
+}
+
+.aitech-card:hover .aitech-image-container img {
+    transform: scale(1.03);
+}
+

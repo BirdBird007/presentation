@@ -82,6 +82,7 @@ img {
     cursor: pointer;
     transition: var(--transition);
     border: none;
+    white-space: nowrap; /* Prevent button text wrapping */
 }
 
 .btn-primary {
@@ -135,9 +136,9 @@ img {
     left: 0;
     width: 100%;
     z-index: 1000;
-    background-color: rgba(11, 15, 25, 0.85);
+    background-color: rgba(26, 23, 21, 0.95); /* Matched to deep charcoal theme */
     backdrop-filter: blur(12px);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
     height: 72px;
 }
 
@@ -156,6 +157,7 @@ img {
     font-weight: 700;
     font-family: var(--font-heading);
     letter-spacing: 0.5px;
+    white-space: nowrap; /* Prevent logo wrapping */
 }
 
 .logo-gold { color: var(--gold); }
@@ -170,6 +172,7 @@ img {
     color: var(--muted-text-light);
     font-size: 14px;
     font-weight: 500;
+    white-space: nowrap; /* Prevent menu link wrapping */
 }
 
 .nav-menu a:hover {
@@ -192,6 +195,7 @@ img {
     font-weight: 600;
     cursor: pointer;
     transition: var(--transition);
+    white-space: nowrap; /* Prevent EN|JP wrapping */
 }
 
 .lang-toggle-btn:hover {
@@ -1439,7 +1443,33 @@ img {
    RESPONSIVE LAYOUTS - MOBILE & TABLET ADAPTATIONS
    ========================================================================== */
 
+@media (max-width: 1200px) {
+    .nav-menu {
+        gap: 18px;
+    }
+    .nav-menu a {
+        font-size: 13px;
+    }
+    .logo {
+        font-size: 18px;
+    }
+}
+
 @media (max-width: 1024px) {
+    .navbar {
+        height: auto;
+        padding: 16px 0;
+    }
+    
+    .nav-container {
+        flex-direction: column;
+        gap: 16px;
+    }
+    
+    .nav-menu {
+        display: none; /* Hide desktop menu on tablets */
+    }
+
     .philosophy-grid {
         grid-template-columns: repeat(2, 1fr);
     }
@@ -1508,20 +1538,6 @@ img {
     
     html {
         overflow-x: clip;
-    }
-
-    .navbar {
-        height: auto;
-        padding: 16px 0;
-    }
-    
-    .nav-container {
-        flex-direction: column;
-        gap: 16px;
-    }
-    
-    .nav-menu {
-        display: none; /* Can toggle in full mobile app, but kept simple */
     }
     
     .hero {
